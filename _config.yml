@@ -6,7 +6,7 @@ email: 458234862@qq.com
 description: "hwlcy.com"
 keyword: "hwlcy.com"
 url: "http://huangwanlin.github.io"          # your host, for absolute URL
-baseurl: "hwlcy.com"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/huangwanlin/huangwanlin.github.io.git" # you code repository
 
 # Sidebar settings
